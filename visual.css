@@ -151,91 +151,6 @@ width: 70%;
 
 
 
-.sort-buttons {
-  display: flex;
-  justify-content: center;
-  margin-top: 40px;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 23px;
-  height: 36px;
-  transition: 1s;
-
-}
-
-
-.men-clothing, .jewelery, .electronics, .women-clothing, .All-Items {
-  margin-left: 11px;
-  margin-right: 11px;
-  cursor: pointer;
-  user-select: none;
-
-}
-
-
-
-
-
-
-
-
-.row {
-  margin-top: 30px;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-
-
-.card {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  background-color: rgb(255, 255, 255);
-  margin: 8px;
-  width: 200px;
-  min-height: 320px;
-  max-height: 600px;
-  border-radius: 20px;
-  border: 1px solid black;
-}
-
-
-.card_title {
-  margin-top: 15px;
-  font-size: 16px;
-  width: 150px;
-  height: 40%;
-}
-
-
-.card_category {
-font-family: fantasy;
-font-size: 14px;
-color: rgb(110, 110, 110);
-height: 5%;
-margin-top: 10px;
-}
-
-.card_price {
-font-size: 25px;
-height: 9%;
-}
-
-.card_count {
-  font-size: 20px;
-  color: rgb(110, 110, 110);
-  height: 10%;
-}
-
-
-.card_rate {
-  font-family: Impact,'Times New Roman';
-  height: 10%;
-  color: rgb(223, 191, 9);
-  font-size: 25px;
-  
-}
 
 
 
@@ -258,8 +173,3 @@ height: 9%;
 
 
 
-
-
-
-
-#__bs_notify__ { top:95% !important; right: 10000px !important; border-radius: 15px !important; height:10px !important; }
