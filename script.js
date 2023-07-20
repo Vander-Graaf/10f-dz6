@@ -1,7 +1,6 @@
 
 
 const theme = document.querySelector('.theme');
-const Align = document.querySelector('.Align');
 const image = theme.querySelector('img');
 const ModalBtn = document.querySelector('.Modal');
 const body = document.querySelector('body');
